@@ -84,12 +84,13 @@ I try with these exercises to make the simplest way and easy understanding
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 #
-
-<!-- CONTRIBUTING -->
-## Contributing
 # Calculator-Ruby
 
 A brief calculator project in the ruby language. It has a simple goal of training the fundamentals of programming
+
+<!-- CONTRIBUTING -->
+## Contributing
+
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
