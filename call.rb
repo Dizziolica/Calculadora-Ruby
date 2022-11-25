@@ -1,7 +1,7 @@
 
 puts "Hello, World!"
 
-puts("Escolha um numro")
+puts("Escolha um numero")
 num1 = gets.chomp().to_i 
 puts("Escolha um operador")
 opera = gets.chomp()
